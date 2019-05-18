@@ -1,0 +1,6 @@
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\bin\Debug\Twisted X Modz V1.exe.config
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\bin\Debug\Twisted X Modz V1.exe
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\bin\Debug\Twisted X Modz V1.pdb
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\obj\Debug\Twisted X Modz V1.csproj.CoreCompileInputs.cache
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\obj\Debug\Twisted X Modz V1.exe
+C:\Users\Twist\Documents\Visual Studio 2017\Twisted X Modz V1\Twisted X Modz V1\obj\Debug\Twisted X Modz V1.pdb
